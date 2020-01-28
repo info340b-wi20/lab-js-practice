@@ -1,5 +1,3 @@
-// 1. Basic variables
-
 // oh yeah, you can color your console log!
 console.log("%c-------------------------------------- 1. Basic Variables --------------------------------------", "color: darkviolet;");
 
@@ -12,8 +10,6 @@ console.log("%c-------------------------------------- 1. Basic Variables -------
 // Create an variable called intro that is the following string:
 // Hi my name is {name}, I am {age} years old and I say {saying}.
 // Print it out!
-
-// 2. Loops
 
 console.log("%c-------------------------------------- 2. Loops --------------------------------------", "color: darkviolet;");
 
@@ -36,8 +32,6 @@ let map = {
     Japan: "Tokyo",
     USA: "Washington DC"
 };
-
-// 3. Object exploration
 
 console.log("%c-------------------------------------- 3. Object exploration --------------------------------------", "color: darkviolet;");
 
