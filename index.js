@@ -3,7 +3,7 @@ console.log("%c-------------------------------------- 1. Basic Variables -------
 
 // Create a variable called helloWorld that says Howdy World! and print it!
 
-// Create a number age that represents how only you are
+// Create a number age that represents how old you are
 
 // Create a object person that has 4 different properties: name, age, saying
 
