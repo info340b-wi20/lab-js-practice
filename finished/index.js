@@ -7,7 +7,7 @@ console.log("%c-------------------------------------- 1. Basic Variables -------
 
 let helloWorld = "Howdy World!";
 
-// Create a number age that represents how only you are
+// Create a number age that represents how old you are
 
 let age = 21;
 
